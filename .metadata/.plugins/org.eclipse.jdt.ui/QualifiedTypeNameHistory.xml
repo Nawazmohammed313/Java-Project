@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.sapient.hiring.tech.common.ShapeKey"/>
+    <fullyQualifiedTypeName name="com.sapient.hiring.tech.common.Rectangle"/>
+    <fullyQualifiedTypeName name="com.sapient.hiring.tech.common.Shape"/>
+    <fullyQualifiedTypeName name="com.sapient.hiring.tech.common.Square"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+</qualifiedTypeNameHistroy>
